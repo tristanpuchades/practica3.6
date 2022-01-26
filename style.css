@@ -1,0 +1,23 @@
+h1{
+    background-color: blanchedalmond;
+    text-align: center; 
+ }
+ 
+ div.museo{
+     background-color: chartreuse;
+     text-align: center;
+ }
+ 
+ div.quienes{background-color: orange;}
+ span.somos{font-weight: bold;}
+ 
+ span.Re{
+     background-color: orange;
+ }
+ 
+ 
+ div.El{
+     background-color: blue;
+     text-align: center;
+ 
+ }
